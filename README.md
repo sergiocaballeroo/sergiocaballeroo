@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, soy Sergio</h1>
-<h3 align="center">estudiante de ingeniería en computación en la UNAM, con gusto por la seguridad, nube y bases de datos</h3>
+<h1 align="center">Hola 👋, soy Sergio</h1>
+<h3 align="center">Actualmente estudiante de ingeniería en computación en la UNAM, con gusto por la seguridad, nube y bases de datos</h3>
 
 - 🌱 Actualmente estoy aprendiendo **AWS, Azure, seguridad**
 
