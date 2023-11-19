@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **AWS, Azure, seguridad**
 
-- 📫 How to reach me **www.linkedin.com/in/sergiocaballeroo**
+- 📫 LinkedIn: **www.linkedin.com/in/sergiocaballeroo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
